@@ -22,7 +22,7 @@ class QuranReaderApp extends StatelessWidget {
       title: 'Quran in Multilanguage',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.lightTheme(),
-      darkTheme: AppTheme.darkTheme(),
+      // darkTheme: AppTheme.darkTheme(),
       home: BlocProvider<MainNavigationCubit>(
         create: (context) => sl(),
         child: const MainNavigation(),

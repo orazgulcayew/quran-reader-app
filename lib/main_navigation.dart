@@ -4,6 +4,7 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:icons_plus/icons_plus.dart';
 import 'package:quran_reader_app/blocs/main_navigation/main_navigation_cubit.dart';
 import 'package:quran_reader_app/config/theme/theme.dart';
+import 'package:quran_reader_app/core/constants/constants.dart';
 import 'package:quran_reader_app/injection_container.dart';
 import 'package:quran_reader_app/pages/favorites/favorites_page.dart';
 import 'package:quran_reader_app/pages/home/home_page.dart';
@@ -26,7 +27,8 @@ class MainNavigation extends StatelessWidget {
     return BlocBuilder<MainNavigationCubit, int>(
         builder: (context, selectedIndex) {
       return Scaffold(
-        body: IndexedStack(index: selectedIndex, children: screens),
+        body: SafeArea(
+            child: IndexedStack(index: selectedIndex, children: screens)),
         bottomNavigationBar: BottomNavigationBar(
             currentIndex: selectedIndex,
             type: BottomNavigationBarType.fixed,
@@ -38,11 +40,11 @@ class MainNavigation extends StatelessWidget {
                   icon: Icon(Iconsax.home_2), label: 'Home'),
               BottomNavigationBarItem(
                   icon: SvgPicture.asset(
-                    'assets/icons/quran.svg',
+                    quran,
                     height: 24,
                     color: selectedIndex == 1
-                        ? AppTheme.primaryColor
-                        : AppTheme.darkGrey,
+                        ? AppTheme.primaryColor2
+                        : AppTheme.neutralDarkColor.withOpacity(0.7),
                   ),
                   label: 'Quran'),
               const BottomNavigationBarItem(
