@@ -53,7 +53,7 @@ class CircularButton extends StatelessWidget {
       case CircularButtonType.primary:
         return AppTheme.primaryColor2;
       case CircularButtonType.secondary:
-        return AppTheme.neutralLightColor;
+        return AppTheme.white;
       case CircularButtonType.tertiary:
         return AppTheme.secondaryColor;
     }

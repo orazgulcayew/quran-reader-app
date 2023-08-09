@@ -24,6 +24,12 @@ class AppTheme {
       useMaterial3: true,
       fontFamily: 'Cairo',
       scaffoldBackgroundColor: background,
+      splashColor: neutralLightColor,
+      highlightColor: neutralLightColor,
+      appBarTheme: const AppBarTheme(
+          backgroundColor: primaryColor,
+          centerTitle: true,
+          titleTextStyle: TextStyle(color: white, fontSize: 20)),
       bottomNavigationBarTheme: BottomNavigationBarThemeData(
         selectedItemColor: primaryColor2,
         showUnselectedLabels: true,

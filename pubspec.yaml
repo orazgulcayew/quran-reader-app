@@ -43,6 +43,7 @@ dependencies:
   equatable: ^2.0.5
   icons_plus: ^4.0.0
   flutter_svg: ^2.0.5
+  flutter_islamic_icons: ^1.0.2
 
 dev_dependencies:
   flutter_test:

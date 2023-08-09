@@ -27,6 +27,9 @@ class MainNavigation extends StatelessWidget {
     return BlocBuilder<MainNavigationCubit, int>(
         builder: (context, selectedIndex) {
       return Scaffold(
+        appBar: AppBar(
+          title: const Text("Home"),
+        ),
         body: SafeArea(
             child: IndexedStack(index: selectedIndex, children: screens)),
         bottomNavigationBar: BottomNavigationBar(
