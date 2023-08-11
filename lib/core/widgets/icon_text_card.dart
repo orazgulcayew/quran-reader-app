@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 import 'package:icons_plus/icons_plus.dart';
-import 'package:quran_reader_app/config/theme/theme.dart';
 
 class IconTextCard extends StatelessWidget {
   final IconData icon;
@@ -15,8 +14,9 @@ class IconTextCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final theme = Theme.of(context).colorScheme;
     return Material(
-      color: Colors.white,
+      color: theme.background,
       elevation: 0.5,
       borderRadius: BorderRadius.circular(20),
       child: InkWell(
@@ -30,10 +30,10 @@ class IconTextCard extends StatelessWidget {
                 padding: const EdgeInsets.all(12),
                 decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(16),
-                    color: AppTheme.primaryColor2.withOpacity(0.1)),
+                    color: theme.primaryContainer),
                 child: Icon(
                   icon,
-                  color: AppTheme.primaryColor2,
+                  color: theme.onPrimaryContainer,
                 ),
               ),
               const Gap(12),
@@ -44,9 +44,9 @@ class IconTextCard extends StatelessWidget {
                       fontSize: 18, fontWeight: FontWeight.bold),
                 ),
               ),
-              const Icon(
+              Icon(
                 Iconsax.arrow_square_right,
-                color: AppTheme.primaryColor2,
+                color: theme.onPrimaryContainer,
               )
             ],
           ),

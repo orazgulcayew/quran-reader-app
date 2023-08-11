@@ -2,10 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter_islamic_icons/flutter_islamic_icons.dart';
 import 'package:gap/gap.dart';
 import 'package:icons_plus/icons_plus.dart';
-import 'package:quran_reader_app/config/theme/theme.dart';
+import 'package:quran_reader_app/config/extensions/navigation.dart';
 import 'package:quran_reader_app/core/constants/constants.dart';
 import 'package:quran_reader_app/core/widgets/icon_text_card.dart';
 import 'package:quran_reader_app/core/widgets/wave_card.dart';
+
+import '../../config/theme/theme.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
@@ -41,8 +43,10 @@ class HomePage extends StatelessWidget {
                 const Gap(12),
                 IconTextCard(
                   icon: FlutterIslamicIcons.solidAllah,
-                  title: "99 Names of Allah",
-                  onPressed: () {},
+                  title: "Names of Allah",
+                  onPressed: () {
+                    context.openAllahNamesPage();
+                  },
                 ),
                 const Gap(12),
                 IconTextCard(

@@ -1,0 +1,794 @@
+ [
+    {
+    "id": "1",
+    "arName": "الرَّحْمَنُ",
+    "enName": "Ar-Rahman",
+    "meaning": "The Beneficent",
+    "explanation": "He who wills goodness and mercy for all His creatures",
+    "benefit": "Reciting it 100 times after every obligatory prayer will enhance memory and awareness. The reciter will feel the burden vanishing away from his heart."
+    },
+    {
+    "id": "2",
+    "arName": "الرَّحِيمُ",
+    "enName": "Ar-Raheem",
+    "meaning": "The Merciful",
+    "explanation": "He who acts with extreme kindness",
+    "benefit": "Reciting it after Fajr prayer 100 times will keep the person safe from all tribulation. Moreover, he will find everyone benevolent towards him."
+    },
+    {
+    "id": "3",
+    "arName": "الْمَلِكُ",
+    "enName": "Al-Malik",
+    "meaning": "The Eternal Lord",
+    "explanation": "The Sovereign Lord, The One with the complete Dominion, the One Whose Dominion is clear from imperfection",
+    "benefit": "Recitation of this name after Fajr prayer will make a person become rich."
+    },
+    {
+    "id": "4",
+    "arName": "الْقُدُّوسُ",
+    "enName": "Al-Quddus",
+    "meaning": "The Most Sacred",
+    "explanation": "The One who is pure from any imperfection and clear from children and adversaries",
+    "benefit": "Agitation never comes close if someone recites it 100 times every day."
+    },
+    {
+    "id": "5",
+    "arName": "السَّلاَمُ",
+    "enName": "As-Salam",
+    "meaning": "The Embodiment of Peace",
+    "explanation": "The One who is free from every imperfection.",
+    "benefit": "The sick will regain his health if this is recited to him 160 times. It also keeps the frequent reciter, of this name, safe from all types of tribulations."
+    },
+    {
+    "id": "6",
+    "arName": "الْمُؤْمِنُ",
+    "enName": "Al-Mu’min",
+    "meaning": "The Infuser of Faith",
+    "explanation": "The One who witnessed for Himself that no one is God but Him. And He witnessed for His believers that they are truthful in their belief that no one is God but Him",
+    "benefit": "Reciting it 631 times will keep you safe from anguish."
+    },
+    {
+    "id": "7",
+    "arName": "الْمُهَيْمِنُ",
+    "enName": "Al-Muhaymin",
+    "meaning": "The Preserver of Safety",
+    "explanation": "The One who witnesses the saying and deeds of His creatures",
+    "benefit": "This purifies the soul of a person, if it is recited 100 times after taking a bath and offering two rakaats of prayer."
+    },
+    {
+    "id": "8",
+    "arName": "الْعَزِيزُ",
+    "enName": "Al-Aziz",
+    "meaning": "The Mighty One",
+    "explanation": "The Strong, The Defeater who is not defeated",
+    "benefit": "Recitation of this name 41 times after Fajr prayer will make the person independent from others and will earn respect."
+    },
+    {
+    "id": "9",
+    "arName": "الْجَبَّارُ",
+    "enName": "Al-Jabbar",
+    "meaning": "The Omnipotent One",
+    "explanation": "The One that nothing happens in His Dominion except that which He willed",
+    "benefit": "Whoever recites this name several times will not be forced to do anything. He will be safe from cruelty and hardship."
+    },
+    {
+    "id": "10",
+    "arName": "الْمُتَكَبِّرُ",
+    "enName": "Al-Mutakabbir",
+    "meaning": "The Dominant One",
+    "explanation": "The One who is clear from the attributes of the creatures and from resembling them.",
+    "benefit": "The one who recites this name frequently will earn respect and gain success."
+    },
+    {
+    "id": "11",
+    "arName": "الْخَالِقُ",
+    "enName": "Al-Khaaliq",
+    "meaning": "The Creator",
+    "explanation": "The One who brings everything from non-existence to existence",
+    "benefit": "Allah will assign an angel to guide the person righteously if he recites this name 100 times continuously for a prescribed limit of 7 days."
+    },
+    {
+    "id": "12",
+    "arName": "الْبَارِئُ",
+    "enName": "Al-Baari",
+    "meaning": "The Evolver",
+    "explanation": "The Maker, The Creator who has the Power to turn the entities.",
+    "benefit": "This name only signifies that Allah created all things in proportion."
+    },
+    {
+    "id": "13",
+    "arName": "الْمُصَوِّرُ",
+    "enName": "Al-Musawwir",
+    "meaning": "The Flawless Shaper",
+    "explanation": "The One who forms His creatures in different pictures.",
+    "benefit": "Recite this name 21 times and do a Damm on water. Continue this for 7 consecutive days. Use the water for breaking the fast. Insha’Allah, the women will soon be blessed with a child."
+    },
+    {
+    "id": "14",
+    "arName": "الْغَفَّارُ",
+    "enName": "Al-Ghaffaar",
+    "meaning": "The Great Forgiver",
+    "explanation": "The Forgiver, The One who forgives the sins of His slaves time and time again.",
+    "benefit": "Sins of a person will be forgiven if it is recited frequently."
+    },
+    {
+    "id": "15",
+    "arName": "الْقَهَّارُ",
+    "enName": "Al-Qahhaar",
+    "meaning": "The All-Prevailing One",
+    "explanation": "The Dominant, The One who has the perfect Power and is not unable over anything.",
+    "benefit": "This name will provide the person with inner peace and will lead the person to the correct place."
+    },
+    {
+    "id": "16",
+    "arName": "الْوَهَّابُ",
+    "enName": "Al-Wahhab",
+    "meaning": "The Supreme Bestower",
+    "explanation": "The One who is Generous in giving plenty without any return. He is everything that benefits whether Halal or Haram.",
+    "benefit": "Reciting it frequently will remove poverty. Reciting it 40 times in the last Sajadah of Chasht prayer will relieve the person from starvation."
+    },
+    {
+    "id": "17",
+    "arName": "الرَّزَّاقُ",
+    "enName": "Ar-Razzaq",
+    "meaning": "The Total Provider",
+    "explanation": "The Sustainer, The Provider.",
+    "benefit": "The person will be provided with livelihood by reciting this name."
+    },
+    {
+    "id": "18",
+    "arName": "الْفَتَّاحُ",
+    "enName": "Al-Fattah",
+    "meaning": "The Supreme Solver",
+    "explanation": "The Opener, The Reliever, The Judge, The One who opens for His slaves the closed worldly and religious matters.",
+    "benefit": "The reciter of this name will be given success and victory in every aspect of his life."
+    },
+    {
+    "id": "19",
+    "arName": "اَلْعَلِيْمُ",
+    "enName": "Al-Alim",
+    "meaning": "The All-Knowing One",
+    "explanation": "The Knowledgeable; The One nothing is absent from His knowledge",
+    "benefit": "The heart of reciter will be enlightened with the light of Nur."
+    },
+    {
+    "id": "20",
+    "arName": "الْقَابِضُ",
+    "enName": "Al-Qaabid",
+    "meaning": "The Restricting One",
+    "explanation": "The Constrictor, The Withholder, The One who constricts the sustenance by His wisdom and expands and widens it with His Generosity and Mercy.",
+    "benefit": "This finishes poverty from the house if it is written, and eaten on 4 pieces of food till 40 days."
+    },
+    {
+    "id": "21",
+    "arName": "الْبَاسِطُ",
+    "enName": "Al-Baasit",
+    "meaning": "The Extender",
+    "explanation": "The Englarger, The One who constricts the sustenance by His wisdom and expands and widens it with His Generosity and Mercy.",
+    "benefit": "Repeating this name 10 times after Chasht prayer and rubbing hands with face will no longer be dependent upon others."
+    },
+    {
+    "id": "22",
+    "arName": "الْخَافِضُ",
+    "enName": "Al-Khaafid",
+    "meaning": "The Reducer",
+    "explanation": "The Abaser, The One who lowers whoever He willed by His Destruction and raises whoever He willed by His Endowment.",
+    "benefit": "Allah will fulfill the need of the person who recites it 500 times. It also acts as a guard from all enemies if a group of people sit in the gathering on the fourth day of fasting and recite this name 70 times each."
+    },
+    {
+    "id": "23",
+    "arName": "الرَّافِعُ",
+    "enName": "Ar-Rafi",
+    "meaning": "The Elevating One",
+    "explanation": "The Exalter, The Elevator, The One who lowers whoever He willed by His Destruction and raises whoever He willed by His Endowment.",
+    "benefit": "The one who recites this name 101 times in day and night will get wealthier and will be highly regarded in merit."
+    },
+    {
+    "id": "24",
+    "arName": "الْمُعِزُّ",
+    "enName": "Al-Mu’izz",
+    "meaning": "The Honourer-Bestower",
+    "explanation": "He gives esteem to whoever He willed, hence there is no one to degrade Him; And He degrades whoever He willed, hence there is no one to give Him esteem.",
+    "benefit": "Reciting this name 140 times after Maghrib prayer either on Monday or on Friday, Allah will make him majestic in the eyes of other people."
+    },
+    {
+    "id": "25",
+    "arName": "المُذِلُّ",
+    "enName": "Al-Muzil",
+    "meaning": "The Abaser",
+    "explanation": "The Dishonourer, The Humiliator, He gives esteem to whoever He willed, hence there is no one to degrade Him; And He degrades whoever He willed, hence there is no one to give Him esteem.",
+    "benefit": "Reciting this name 75 times will protect the person from those who wish to harm him."
+    },
+    {
+    "id": "26",
+    "arName": "السَّمِيعُ",
+    "enName": "As-Sami’",
+    "meaning": "The All-Hearer",
+    "explanation": "The Hearer, The One who Hears all things that are heard by His Eternal Hearing without an ear, instrument or organ.",
+    "benefit": "Allah will fulfill the desire of a person who recites this name 500, 100 or 50 times on Thursday after Chasht prayer."
+    },
+    {
+    "id": "27",
+    "arName": "الْبَصِيرُ",
+    "enName": "Al-Baseer",
+    "meaning": "The All-Seeing",
+    "explanation": "The All-Noticing, The One who Sees all things that are seen by His Eternal Seeing without a pupil or any other instrument.",
+    "benefit": "For the enlightenment of heart and soul, recite this name 100 times after Jummah prayer."
+    },
+    {
+    "id": "28",
+    "arName": "الْحَكَمُ",
+    "enName": "Al-Hakam",
+    "meaning": "The Impartial Judge",
+    "explanation": "The Judge, He is the Ruler and His judgment is His Word.",
+    "benefit": "Secrets will be revealed to the person who recites this name frequently at night."
+    },
+    {
+    "id": "29",
+    "arName": "الْعَدْلُ",
+    "enName": "Al-Adl",
+    "meaning": "The Embodiment of Justice",
+    "explanation": "The Just, The One who is entitled to do what He does.",
+    "benefit": "People will obey you if you will write this name on a piece of bread on Friday."
+    },
+    {
+    "id": "30",
+    "arName": "اللَّطِيفُ",
+    "enName": "Al-Lateef",
+    "meaning": "The Knower of Subtleties",
+    "explanation": "The Subtle One, The Gracious, The One who is kind to His slaves and endows upon them.",
+    "benefit": "To make your affairs get settled accordingly to your will, recite this name 133 times daily."
+    },
+    {
+    "id": "31",
+    "arName": "الْخَبِيرُ",
+    "enName": "Al-Khabeer",
+    "meaning": "The All-Aware One",
+    "explanation": "The One who knows the truth of things.",
+    "benefit": "Reciting this name regularly will make a person a righteous man who is indulged in wrong things."
+    },
+    {
+    "id": "32",
+    "arName": "الْحَلِيمُ",
+    "enName": "Al-Haleem",
+    "meaning": "The Clement One",
+    "explanation": "The Forebearing, The One who delays the punishment for those who deserve it and then He might forgive them.",
+    "benefit": "Write this name on a piece of paper and wash it with water. Use that water for sprinkling things. This will keep the things safe from all types of damages."
+    },
+    {
+    "id": "33",
+    "arName": "الْعَظِيمُ",
+    "enName": "Al-Azeem",
+    "meaning": "The Magnificent One",
+    "explanation": "The Great One, The Mighty, The One deserving the attributes of Exaltment, Glory, Extolement, and Purity from all imperfection.",
+    "benefit": "To earn respect and honor, recite this name several times."
+    },
+    {
+    "id": "34",
+    "arName": "الْغَفُورُ",
+    "enName": "Al-Ghafoor",
+    "meaning": "The Great Forgiver",
+    "explanation": "The All-Forgiving, The Forgiving, The One who forgives a lot.",
+    "benefit": "This name works as a cure for headache and fever."
+    },
+    {
+    "id": "35",
+    "arName": "الشَّكُورُ",
+    "enName": "Ash-Shakoor",
+    "meaning": "The Acknowledging One",
+    "explanation": "The Grateful, The Appreciative, The One who gives a lot of reward for a little obedience.",
+    "benefit": "The person will be relieved from all the suffering if he recites this name 41 times daily."
+    },
+    {
+    "id": "36",
+    "arName": "الْعَلِيُّ",
+    "enName": "Al-Aliyy",
+    "meaning": "The Sublime One",
+    "explanation": "The Most High, The One who is clear from the attributes of the creatures.",
+    "benefit": "The one who keeps this name written on a piece of paper will achieve a high rank and success in all his work."
+    },
+    {
+    "id": "37",
+    "arName": "الْكَبِيرُ",
+    "enName": "Al-Kabeer",
+    "meaning": "The Great One",
+    "explanation": "The Most Great, The Great, The One who is greater than everything in status.",
+    "benefit": "The reciter of this name 100 times daily will be esteemed by everyone."
+    },
+    {
+    "id": "38",
+    "arName": "الْحَفِيظُ",
+    "enName": "Al-Hafiz",
+    "meaning": "The Guarding One",
+    "explanation": "The Preserver, The Protector, The One who protects whatever and whoever He willed to protect.",
+    "benefit": "Recite this name and do a Damm on water. Give the water to the ill mannered child. He will become obedient."
+    },
+    {
+    "id": "39",
+    "arName": "المُقيِت",
+    "enName": "Al-Muqeet",
+    "meaning": "The Sustaining One",
+    "explanation": "The Maintainer, The Guardian, The Feeder, The One who has the Power.",
+    "benefit": "Reciting it many times will keep him safe from problems and difficulties."
+    },
+    {
+    "id": "40",
+    "arName": "الْحسِيبُ",
+    "enName": "Al-Haseeb",
+    "meaning": "The Reckoning One",
+    "explanation": "The Reckoner, The One who gives the satisfaction.",
+    "benefit": "The one who recites this name 7 times and do a Damm on himself, his property and family will come under the custody of Allah."
+    },
+    {
+    "id": "41",
+    "arName": "الْجَلِيلُ",
+    "enName": "Al-Jaleel",
+    "meaning": "The Majestic One",
+    "explanation": "The Sublime One, The Beneficent, The One who is attributed with greatness of Power and Glory of status.",
+    "benefit": "Repeating this name frequently will help a person attain respect and honor."
+    },
+    {
+    "id": "42",
+    "arName": "الْكَرِيمُ",
+    "enName": "Al-Kareem",
+    "meaning": "The Bountiful One",
+    "explanation": "The Generous One, The Gracious, The One who is attributed with greatness of Power and Glory of status.",
+    "benefit": "To earn a lot of respect in this world and Hereafter, recite this name many times before going to sleep."
+    },
+    {
+    "id": "43",
+    "arName": "الرَّقِيبُ",
+    "enName": "Ar-Raqeeb",
+    "meaning": "The Watchful One",
+    "explanation": "The Watcher, The One that nothing is absent from Him. Hence it’s meaning is related to the attribute of Knowledge.",
+    "benefit": "Recite this name seven times and do a Damm on yourself or your family. This will ensure the safety under Allah’s protection."
+    },
+    {
+    "id": "44",
+    "arName": "الْمُجِيبُ",
+    "enName": "Al-Mujeeb",
+    "meaning": "The Responding One",
+    "explanation": "The Responsive, The Hearkener, The One who answers the one in need if he asks Him and rescues the yearner if he calls upon Him.",
+    "benefit": "If you want an answer to any of your appeal, then you will get it if you recite this name frequently."
+    },
+    {
+    "id": "45",
+    "arName": "الْوَاسِعُ",
+    "enName": "Al-Waasi’",
+    "meaning": "The All-Pervading One",
+    "explanation": "The Vast, The All-Embracing, The Knowledgeable.",
+    "benefit": "Allah opens the doors of income if someone recites this name many times. His difficulties in earning be vanished."
+    },
+    {
+    "id": "46",
+    "arName": "الْحَكِيمُ",
+    "enName": "Al-Hakeem",
+    "meaning": "The Wise One",
+    "explanation": "The Wise, The Judge of Judges, The One who is correct in His doings.",
+    "benefit": "This name, when recited, removes difficulties of the work."
+    },
+    {
+    "id": "47",
+    "arName": "الْوَدُودُ",
+    "enName": "Al-Wadud",
+    "meaning": "The Loving One",
+    "explanation": "The One who loves His believing slaves and His believing slaves love Him. His love to His slaves is His Will to be merciful to them and praise them",
+    "benefit": "This name helps in resolving a disagreement between two people if one gives the other person food after reciting this name 1000 times in his food."
+    },
+    {
+    "id": "48",
+    "arName": "الْمَجِيدُ",
+    "enName": "Al-Majeed",
+    "meaning": "The Glorious One",
+    "explanation": "The Most Glorious One, The One who is with perfect Power, High Status, Compassion, Generosity and Kindness.",
+    "benefit": "This name bestows a person with glory."
+    },
+    {
+    "id": "49",
+    "arName": "الْبَاعِثُ",
+    "enName": "Al-Ba’ith",
+    "meaning": "The Infuser of New Life",
+    "explanation": "The Resurrector, The Raiser (from death), The One who resurrects His slaves after death for reward and/or punishment.",
+    "benefit": "This name makes a person God fearing and therefore, it leads him to the righteous path."
+    },
+    {
+    "id": "50",
+    "arName": "الشَّهِيدُ",
+    "enName": "Ash-Shaheed",
+    "meaning": "The All Observing Witness",
+    "explanation": "The Witness, The One who nothing is absent from Him.",
+    "benefit": "Recite this name 21 times with the hand placed on the head of the disobedient person. Insha’Allah, he will become obedient."
+    },
+    {
+    "id": "51",
+    "arName": "الْحَقُّ",
+    "enName": "Al-Haqq",
+    "meaning": "The Embodiment of Truth",
+    "explanation": "The Truth, The True, The One who truly exists.",
+    "benefit": "If you lost something, then recite this name."
+    },
+    {
+    "id": "52",
+    "arName": "الْوَكِيلُ",
+    "enName": "Al-Wakeel",
+    "meaning": "The Universal Trustee",
+    "explanation": "The Trustee, The One who gives the satisfaction and is relied upon.",
+    "benefit": "Allah will protect that person from drowning or burning in fire if he recites this name frequently."
+    },
+    {
+    "id": "53",
+    "arName": "الْقَوِيُّ",
+    "enName": "Al-Qawwiyy",
+    "meaning": "The Strong One",
+    "explanation": "The Most Strong, The Strong, The One with the complete Power",
+    "benefit": "This keeps a person safe from the harm of the enemy if he is unable to defeat the enemy."
+    },
+    {
+    "id": "54",
+    "arName": "الْمَتِينُ",
+    "enName": "Al-Mateen",
+    "meaning": "The Firm One",
+    "explanation": "The One with extreme Power which is un-interrupted and He does not get tired.",
+    "benefit": "This helps a person to get rid of all types of troubles."
+    },
+    {
+    "id": "55",
+    "arName": "الْوَلِيُّ",
+    "enName": "Al-Waliyy",
+    "meaning": "The Protecting Associate",
+    "explanation": "The Protecting Friend, The Supporter.",
+    "benefit": "Reciting this name makes the person closer to Allah."
+    },
+    {
+    "id": "56",
+    "arName": "الْحَمِيدُ",
+    "enName": "Al-Hameed",
+    "meaning": "The Sole-Laudable One",
+    "explanation": "The Praiseworthy, The praised One who deserves to be praised.",
+    "benefit": "The one who recites this name will be praised and loved."
+    },
+    {
+    "id": "57",
+    "arName": "الْمُحْصِي",
+    "enName": "Al-Muhsee",
+    "meaning": "The All-Enumerating One",
+    "explanation": "The Counter, The Reckoner, The One who the count of things are known to him.",
+    "benefit": "This name provides ease to the person if he is afraid of being questioned on the Day of Resurrection."
+    },
+    {
+    "id": "58",
+    "arName": "الْمُبْدِئُ",
+    "enName": "Al-Mubdi",
+    "meaning": "The Originator",
+    "explanation": "The One who started the human being. That is, He created him.",
+    "benefit": "A pregnant woman will be safe from danger while aborting if she repeats this name several times."
+    },
+    {
+    "id": "59",
+    "arName": "الْمُعِيدُ",
+    "enName": "Al-Mueed",
+    "meaning": "The Restorer",
+    "explanation": "The Reproducer, The One who brings back the creatures after death",
+    "benefit": "Reciting this name 70 times will bring the person who has left home within 7 days, safe and secure."
+    },
+    {
+    "id": "60",
+    "arName": "الْمُحْيِي",
+    "enName": "Al-Muhyi",
+    "meaning": "The Maintainer of life",
+    "explanation": "The Restorer, The Giver of Life, The One who took out a living human from semen that does not have a soul. He gives life by giving the souls back to the worn out bodies on the resurrection day and He makes the hearts alive by the light of knowledge.",
+    "benefit": "This name reduces the burden of a person if recited 7 times every day."
+    },
+    {
+    "id": "61",
+    "arName": "اَلْمُمِيتُ",
+    "enName": "Al-Mumeet",
+    "meaning": "The Inflictor of Death",
+    "explanation": "The Creator of Death, The Destroyer, The One who renders the living dead.",
+    "benefit": "This name destroys the enemy completely."
+    },
+    {
+    "id": "62",
+    "arName": "الْحَيُّ",
+    "enName": "Al-Hayy",
+    "meaning": "The Eternally Living One",
+    "explanation": "The Alive, The One attributed with a life that is unlike our life and is not that of a combination of soul, flesh or blood.",
+    "benefit": "The reciter of this name will have a long life."
+    },
+    {
+    "id": "63",
+    "arName": "الْقَيُّومُ",
+    "enName": "Al-Qayyoom",
+    "meaning": "The Self-Subsisting One",
+    "explanation": "The One who remains and does not end.",
+    "benefit": "The one repeats this name will remain active."
+    },
+    {
+    "id": "64",
+    "arName": "الْوَاجِدُ",
+    "enName": "Al-Waajid",
+    "meaning": "The Pointing One",
+    "explanation": "The Perceiver, The Finder, The Rich who is never poor. Al-Wajd is Richness.",
+    "benefit": "This name increases the richness of heart."
+    },
+    {
+    "id": "65",
+    "arName": "الْمَاجِدُ",
+    "enName": "Al-Maajid",
+    "meaning": "The All-Noble One",
+    "explanation": "The Glorious, He who is Most Glorious.",
+    "benefit": "This name enlightens the heart of its reciter."
+    },
+    {
+    "id": "66",
+    "arName": "الْواحِدُ",
+    "enName": "Al-Waahid",
+    "meaning": "The Only One",
+    "explanation": "The Unique, The One, The One without a partner",
+    "benefit": "Reciting this name 1000 times in silence alone will vanish the fear from the heart."
+    },
+    {
+    "id": "67",
+    "arName": "اَلاَحَدُ",
+    "enName": "Al-Ahad",
+    "meaning": "The Sole One",
+    "explanation": "The One",
+    "benefit": "Secrets will be revealed to the person who recites this name 1000 times."
+    },
+    {
+    "id": "68",
+    "arName": "الصَّمَدُ",
+    "enName": "As-Samad",
+    "meaning": "The Supreme Provider",
+    "explanation": "The Eternal, The Independent, The Master who is relied upon in matters and reverted to in ones needs.",
+    "benefit": "Allah will fulfill all the needs of the person who recites this name many times."
+    },
+    {
+    "id": "69",
+    "arName": "الْقَادِرُ",
+    "enName": "Al-Qaadir",
+    "meaning": "The Omnipotent One",
+    "explanation": "The Able, The Capable, The One attributed with Power.",
+    "benefit": "Allah fulfills all the desires of the person who recites this name often."
+    },
+    {
+    "id": "70",
+    "arName": "الْمُقْتَدِرُ",
+    "enName": "Al-Muqtadir",
+    "meaning": "The All Authoritative One",
+    "explanation": "The Powerful, The Dominant, The One with the perfect Power that nothing is withheld from Him.",
+    "benefit": "The reciter will become aware of the truth."
+    },
+    {
+    "id": "71",
+    "arName": "الْمُقَدِّمُ",
+    "enName": "Al-Muqaddim",
+    "meaning": "The Expediting One",
+    "explanation": "The Expediter, The Promoter, The One who puts things in their right places. He makes ahead what He wills and delays what He wills.",
+    "benefit": "Reciting this name on the battlefield removes all the fear and keeps the person safe from harm."
+    },
+    {
+    "id": "72",
+    "arName": "الْمُؤَخِّرُ",
+    "enName": "Al-Mu’akhkhir",
+    "meaning": "The Procrastinator",
+    "explanation": "The Delayer, the Retarder, The One who puts things in their right places. He makes ahead what He wills and delays what He wills.",
+    "benefit": "Reciting this name in the heart for 100 times enriches the person’s heart with the love of Allah. All his world desires will be removed as no other love will ever replace his heart."
+    },
+    {
+    "id": "73",
+    "arName": "الأوَّلُ",
+    "enName": "Al-Awwal",
+    "meaning": "The Very First",
+    "explanation": "The First, The One whose Existence is without a beginning.",
+    "benefit": "If recited 40 times for 40 days, it will give a child to a family who is not blessed with one. Moreover, a traveler will reach home safe and sound if he recites this name 1000 times on Friday."
+    },
+    {
+    "id": "74",
+    "arName": "الآخِرُ",
+    "enName": "Al-Akhir",
+    "meaning": "The Infinite Last One",
+    "explanation": "The Last, The One whose Existence is without an end.",
+    "benefit": "The reciter of this name will have a good life and a good death."
+    },
+    {
+    "id": "75",
+    "arName": "الظَّاهِرُ",
+    "enName": "Az-Zaahir",
+    "meaning": "The Perceptible",
+    "explanation": "The Manifest, The One that nothing is above Him and nothing is underneath Him, hence He exists without a place. He, The Exalted, His Existence is obvious by proofs and He is clear from the delusions of attributes of bodies.",
+    "benefit": "The reciter’s heart will be enlightened with Noor (the divine light) if this name is recited 15 times after the Jummah prayer on Friday."
+    },
+    {
+    "id": "76",
+    "arName": "الْبَاطِنُ",
+    "enName": "Al-Baatin",
+    "meaning": "The Imperceptible",
+    "explanation": "The Hidden, The One that nothing is above Him and nothing is underneath Him, hence He exists without a place. He, The Exalted, His Existence is obvious by proofs and He is clear from the delusions of attributes of bodies.",
+    "benefit": "With the recitation of this name for only three times every day, he will be able to know the truth in all things."
+    },
+    {
+    "id": "77",
+    "arName": "الْوَالِي",
+    "enName": "Al-Waali",
+    "meaning": "The Holder of Supreme Authority",
+    "explanation": "The Governor, The One who owns things and manages them.",
+    "benefit": "This name keeps the house safe from all dangers."
+    },
+    {
+    "id": "78",
+    "arName": "الْمُتَعَالِي",
+    "enName": "Al-Muta’ali",
+    "meaning": "The Extremely Exalted One",
+    "explanation": "The Most Exalted, The High Exalted, The One who is clear from the attributes of the creation.",
+    "benefit": "Whosoever recites this name will become closer to Allah."
+    },
+    {
+    "id": "79",
+    "arName": "الْبَرُّ",
+    "enName": "Al-Barr",
+    "meaning": "The Fountain-Head of Truth",
+    "explanation": "The Source of All Goodness, The Righteous, The One who is kind to His creatures, who covered them with His sustenance and specified whoever He willed among them by His support, protection, and special mercy.",
+    "benefit": "This name will make the future of the child of reciter free from misfortune."
+    },
+    {
+    "id": "80",
+    "arName": "التَّوَابُ",
+    "enName": "At-Tawwaab",
+    "meaning": "The Ever-Acceptor of Repentance",
+    "explanation": "The Relenting, The One who grants repentance to whoever He willed among His creatures and accepts his repentance.",
+    "benefit": "Supplications are accepted if this name is recited frequently."
+    },
+    {
+    "id": "81",
+    "arName": "الْمُنْتَقِمُ",
+    "enName": "Al-Muntaqim",
+    "meaning": "The Retaliator",
+    "explanation": "The Avenger, The One who victoriously prevails over His enemies and punishes them for their sins. It may mean the One who destroys them.",
+    "benefit": "This helps gain victory against enemies."
+    },
+    {
+    "id": "82",
+    "arName": "العَفُوُّ",
+    "enName": "Al-Afuww",
+    "meaning": "The Supreme Pardoner",
+    "explanation": "The Forgiver, The One with wide forgiveness.",
+    "benefit": "This name helps a person in the forgiveness of all his sins."
+    },
+    {
+    "id": "83",
+    "arName": "الرَّؤُوفُ",
+    "enName": "Ar-Ra’oof",
+    "meaning": "The Benign One",
+    "explanation": "The Compassionate, The One with extreme Mercy. The Mercy of Allah is His will to endow upon whoever He willed among His creatures.",
+    "benefit": "Allah blesses the one who recites this name more often."
+    },
+    {
+    "id": "84",
+    "arName": "مَالِكُ الْمُلْكِ",
+    "enName": "Maalik-ul-Mulk",
+    "meaning": "The Eternal Possessor of Sovereignty",
+    "explanation": "The One who controls the Dominion and gives dominion to whoever He willed.",
+    "benefit": "This name gives respect to its reciter among people."
+    },
+    {
+    "id": "85",
+    "arName": "ذُوالْجَلاَلِ وَالإكْرَامِ",
+    "enName": "Zul-Jalaali-wal-Ikram",
+    "meaning": "The Possessor of Majesty and Honour",
+    "explanation": "The Lord of Majesty and Bounty, The One who deserves to be Exalted and not denied.",
+    "benefit": "This name removes poverty and makes a person rich."
+    },
+    {
+    "id": "86",
+    "arName": "الْمُقْسِطُ",
+    "enName": "Al-Muqsit",
+    "meaning": "The Just One",
+    "explanation": "The Equitable, The One who is Just in His judgment.",
+    "benefit": "This name provides protection from the harm of a devil."
+    },
+    {
+    "id": "87",
+    "arName": "الْجَامِعُ",
+    "enName": "Al-Jaami’",
+    "meaning": "The Assembler of Scattered Creations",
+    "explanation": "The Gatherer, The One who gathers the creatures on a day that there is no doubt about, that is the Day of Judgment.",
+    "benefit": "With the power and glory of this name, you will be able to find lost things."
+    },
+    {
+    "id": "88",
+    "arName": "الْغَنِيُّ",
+    "enName": "Al-Ghaniyy",
+    "meaning": "The Self-Sufficient One",
+    "explanation": "The One who does not need the creation.",
+    "benefit": "Reciting this name 70 times will make a person free from all needs."
+    },
+    {
+    "id": "89",
+    "arName": "الْمُغْنِي",
+    "enName": "Al-Mughni",
+    "meaning": "The Bestower of Sufficiency",
+    "explanation": "The Enricher, The One who satisfies the necessities of the creatures.",
+    "benefit": "Reciting this name 1000 times for ten consecutive Fridays will make a person become self sufficient."
+    },
+    {
+    "id": "90",
+    "arName": "اَلْمَانِعُ",
+    "enName": "Al-Maani’",
+    "meaning": "The Preventer",
+    "explanation": "The Withholder.",
+    "benefit": "Recitation of this name 20 times at bedtime provides a happy family life."
+    },
+    {
+    "id": "91",
+    "arName": "الضَّارَّ",
+    "enName": "Ad-Daarr",
+    "meaning": "The Distressor",
+    "explanation": "The One who makes harm reach to whoever He willed and benefit to whoever He willed.",
+    "benefit": "This name helps a person in gaining peace if it is read 20 times on Friday nights."
+    },
+    {
+    "id": "92",
+    "arName": "النَّافِعُ",
+    "enName": "An-Naafi’",
+    "meaning": "The Bestower of Benefits",
+    "explanation": "The Propitious, The One who makes harm reach to whoever He willed and benefit to whoever He willed.",
+    "benefit": "This name gives success on every good act if it is started with the recitation of this name for 41 times."
+    },
+    {
+    "id": "93",
+    "arName": "النُّورُ",
+    "enName": "An-Noor",
+    "meaning": "The Prime Light",
+    "explanation": "The Light, The One who guides.",
+    "benefit": "This name enlightens the inside of the person."
+    },
+    {
+    "id": "94",
+    "arName": "الْهَادِي",
+    "enName": "Al-Haadi",
+    "meaning": "The Provider of Guidance",
+    "explanation": "The Guide, The One whom with His Guidance His believers were guided, and with His Guidance the living beings have been guided to what is beneficial for them and protected from what is harmful to them.",
+    "benefit": "1100 times of the recitation of this name makes a person fulfill his needs."
+    },
+    {
+    "id": "95",
+    "arName": "الْبَدِيعُ",
+    "enName": "Al-Badi’",
+    "meaning": "The Unique One",
+    "explanation": "The Incomparable, The One who created the creation and formed it without any preceding example.",
+    "benefit": "To gain relief from any type of distress, a person should recite this name 70,000 times."
+    },
+    {
+    "id": "96",
+    "arName": "اَلْبَاقِي",
+    "enName": "Al-Baaqi",
+    "meaning": "The Ever Surviving One",
+    "explanation": "The Everlasting, The One that the state of non-existence is impossible for Him.",
+    "benefit": "To ensure that all your good deeds are accepted, recite this name 100 times on every Friday night."
+    },
+    {
+    "id": "97",
+    "arName": "الْوَارِثُ",
+    "enName": "Al-Waaris",
+    "meaning": "The Eternal Inheritor",
+    "explanation": "The Heir, The One whose Existence remains.",
+    "benefit": "A person will remain safe from sorrow and distress if he recites this name 100 times after the sunrise."
+    },
+    {
+    "id": "98",
+    "arName": "الرَّشِيدُ",
+    "enName": "Ar-Rasheed",
+    "meaning": "The Guide to Path of Rectitude",
+    "explanation": "The Guide to the Right Path, The One who guides.",
+    "benefit": "To complete a task you are unable to do, recite this name 1000 times between Maghrib and Isha prayer."
+    },
+    {
+    "id": "99",
+    "arName": "الصَّبُورُ",
+    "enName": "As-Saboor",
+    "meaning": "The Extensively Enduring One",
+    "explanation": "The Patient, The One who does not quickly punish the sinners.",
+    "benefit": "The person will be rescued from his difficulty if he recites this name 3000 times."
+    }
+]

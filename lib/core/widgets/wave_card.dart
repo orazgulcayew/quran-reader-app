@@ -2,9 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:gap/gap.dart';
 import 'package:icons_plus/icons_plus.dart';
-import 'package:quran_reader_app/config/theme/theme.dart';
 import 'package:quran_reader_app/core/utils/wave_clipper.dart';
 import 'package:quran_reader_app/core/widgets/buttons.dart';
+
+import '../../config/theme/theme.dart';
 
 class WaveCard extends StatelessWidget {
   final Color waveColor;

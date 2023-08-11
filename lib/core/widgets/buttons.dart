@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:quran_reader_app/config/theme/theme.dart';
+
+import '../../config/theme/theme.dart';
 
 enum CircularButtonType { primary, secondary, tertiary }
 
