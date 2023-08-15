@@ -57,8 +57,10 @@ class HomePage extends StatelessWidget {
                 const Gap(12),
                 IconTextCard(
                   icon: FlutterIslamicIcons.solidTasbih2,
-                  title: "Tasbih",
-                  onPressed: () {},
+                  title: "Tasbih (Dhikr)",
+                  onPressed: () {
+                    context.openTasbihCounterPage();
+                  },
                 ),
                 const Gap(12),
                 IconTextCard(

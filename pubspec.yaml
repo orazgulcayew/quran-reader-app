@@ -45,6 +45,7 @@ dependencies:
   flutter_svg: ^2.0.5
   flutter_islamic_icons: ^1.0.2
   shared_preferences: ^2.2.0
+  step_progress_indicator: ^1.0.2
 
 dev_dependencies:
   flutter_test:

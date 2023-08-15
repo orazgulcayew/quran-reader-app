@@ -10,7 +10,7 @@ part 'names_of_allah_event.dart';
 part 'names_of_allah_state.dart';
 
 class NamesOfAllahBloc extends Bloc<NamesOfAllahEvent, NamesOfAllahState> {
-  List<Name> allNames;
+  final List<Name> allNames;
 
   NamesOfAllahBloc({required this.allNames}) : super(NamesLoading()) {
     on<LoadNamesEvent>(onLoadNames);

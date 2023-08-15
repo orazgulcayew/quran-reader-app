@@ -43,6 +43,7 @@ class AppTheme {
       ),
       colorScheme: const ColorScheme.dark(
           background: darkBackground,
+          secondaryContainer: neutralDarkColor,
           onPrimaryContainer: neutralLightColor,
           primaryContainer: primaryColor),
       highlightColor: neutralDarkColor.withOpacity(0.5),
@@ -86,6 +87,7 @@ class AppTheme {
       dividerTheme: const DividerThemeData(color: Colors.black12),
       colorScheme: ColorScheme.light(
           background: white,
+          secondaryContainer: neutralLightColor,
           onPrimaryContainer: primaryColor2,
           primaryContainer: primaryColor2.withOpacity(0.1)),
       listTileTheme: const ListTileThemeData(
