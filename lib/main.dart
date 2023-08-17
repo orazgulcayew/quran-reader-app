@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:quran_reader_app/blocs/main_navigation/main_navigation_cubit.dart';
 import 'package:quran_reader_app/blocs/settings/settings_bloc.dart';
@@ -36,15 +37,17 @@ class QuranReaderApp extends StatelessWidget {
         ),
       ],
       child: BlocBuilder<SettingsBloc, SettingsState>(
-        builder: (context, state) => MaterialApp(
-          title: 'Quran in Multilanguage',
-          debugShowCheckedModeBanner: false,
-          theme: AppTheme.lightTheme(),
-          darkTheme: AppTheme.darkTheme(),
-          themeMode: state.themeMode,
-          home: const MainNavigation(),
-        ),
-      ),
+          builder: (context, state) => MaterialApp(
+                title: 'Quran in Multilanguage',
+                debugShowCheckedModeBanner: false,
+                theme: AppTheme.lightTheme(),
+                darkTheme: AppTheme.darkTheme(),
+                themeMode: state.themeMode,
+                home: AnnotatedRegion<SystemUiOverlayStyle>(
+                    value: SystemUiOverlayStyle.dark.copyWith(
+                        systemNavigationBarColor: state.navigationColor),
+                    child: const MainNavigation()),
+              )),
     );
   }
 }

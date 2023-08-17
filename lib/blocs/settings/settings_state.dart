@@ -7,11 +7,11 @@ class SettingsState extends Equatable {
   @override
   List<Object> get props => [isDark];
 
+  Color get navigationColor {
+    return isDark ? AppTheme.darkBackground : AppTheme.background;
+  }
+
   ThemeMode get themeMode {
-    if (isDark) {
-      return ThemeMode.dark;
-    } else {
-      return ThemeMode.light;
-    }
+    return isDark ? ThemeMode.dark : ThemeMode.light;
   }
 }

@@ -56,6 +56,14 @@ class HomePage extends StatelessWidget {
                 ),
                 const Gap(12),
                 IconTextCard(
+                  icon: FlutterIslamicIcons.solidQibla2,
+                  title: "Qibla direction",
+                  onPressed: () {
+                    context.openQiblaDirectionPage();
+                  },
+                ),
+                const Gap(12),
+                IconTextCard(
                   icon: FlutterIslamicIcons.solidTasbih2,
                   title: "Tasbih (Dhikr)",
                   onPressed: () {
