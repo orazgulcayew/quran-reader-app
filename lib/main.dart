@@ -27,6 +27,9 @@ class QuranReaderApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    precacheImage(const AssetImage('assets/images/compass_night.png'), context);
+    precacheImage(const AssetImage('assets/images/compass.png'), context);
+
     return MultiBlocProvider(
       providers: [
         BlocProvider<MainNavigationCubit>(

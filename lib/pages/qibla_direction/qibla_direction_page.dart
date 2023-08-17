@@ -25,7 +25,14 @@ class CompassWithQiblah extends StatelessWidget {
         padding: const EdgeInsets.symmetric(horizontal: 16),
         child: Center(
           child: SmoothCompass(
-            errorDecoration: ErrorDecoration(),
+            errorDecoration: ErrorDecoration(
+              buttonText: ButtonText(),
+              buttonStyle: ErrorButtonStyle(
+                  borderRadius: BorderRadius.circular(20),
+                  buttonColor: AppTheme.primaryColor,
+                  textColor: AppTheme.white),
+              messageTextStyle: TextStyle(color: theme.error),
+            ),
             isQiblahCompass: true,
             compassBuilder: (context, snapshot, child) {
               if (isFacingWithQibla(snapshot?.data?.angle ?? 0.0,
