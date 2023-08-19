@@ -57,7 +57,7 @@ class HomePage extends StatelessWidget {
                 const Gap(12),
                 IconTextCard(
                   icon: FlutterIslamicIcons.solidQibla2,
-                  title: "Qibla direction",
+                  title: "Qiblah direction",
                   onPressed: () {
                     context.openQiblaDirectionPage();
                   },
@@ -76,6 +76,7 @@ class HomePage extends StatelessWidget {
                   title: "Favorites",
                   onPressed: () {},
                 ),
+                const Gap(12),
               ],
             ),
           ),
